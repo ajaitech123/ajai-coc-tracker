@@ -1,23 +1,23 @@
 {
-  "fetched_at": "2026-10-22T11:51:42.872308+00:00",
+  "fetched_at": "2026-10-22T17:10:16.636977+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
     "townHallLevel": 15,
     "townHallWeaponLevel": 1,
-    "expLevel": 106,
+    "expLevel": 107,
     "trophies": 315,
     "bestTrophies": 344,
     "warStars": 149,
     "attackWins": 0,
     "defenseWins": 0,
     "builderHallLevel": 10,
-    "builderBaseTrophies": 2555,
+    "builderBaseTrophies": 2550,
     "bestBuilderBaseTrophies": 2795,
     "role": "leader",
-    "warPreference": "in",
-    "donations": 526,
-    "donationsReceived": 557,
+    "warPreference": "out",
+    "donations": 534,
+    "donationsReceived": 622,
     "clanCapitalContributions": 204171,
     "clan": {
       "tag": "#2Q0PUYL2V",
@@ -175,10 +175,10 @@
       {
         "name": "Friend in Need",
         "stars": 1,
-        "value": 4495,
+        "value": 4503,
         "target": 5000,
         "info": "Donate 5000 capacity worth of reinforcements to Clanmates",
-        "completionInfo": "Total capacity donated: 4495",
+        "completionInfo": "Total capacity donated: 4503",
         "village": "home"
       },
       {
@@ -328,10 +328,10 @@
       {
         "name": "Games Champion",
         "stars": 1,
-        "value": 42450,
+        "value": 42550,
         "target": 50000,
         "info": "Earn 50000 points in Clan Games",
-        "completionInfo": "Total Clan Games points: 42450",
+        "completionInfo": "Total Clan Games points: 42550",
         "village": "home"
       },
       {
