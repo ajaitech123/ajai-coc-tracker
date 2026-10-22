@@ -11,7 +11,7 @@ def main():
     token = os.getenv('COC_API_TOKEN')
     if not token:
         raise SystemExit('Set COC_API_TOKEN before running')
-    url = 'https://api.clashofclans.com/v1/players/' + quote(PLAYER_TAG, safe='')
+    url = 'https://cocproxy.royaleapi.dev/v1/players/' + quote(PLAYER_TAG, safe='')
     request = Request(url, headers={'Authorization': 'Bearer ' + token})
     with urlopen(request, timeout=20) as response:
         player = json.load(response)
