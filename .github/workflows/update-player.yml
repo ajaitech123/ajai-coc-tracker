@@ -1,0 +1,33 @@
+name: Update CoC Player Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Fetch player data
+        env:
+          COC_API_TOKEN: ${{ secrets.COC_API_TOKEN }}
+        run: python tracker.py
+      - name: Commit updated snapshot
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add player_latest.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update CoC player snapshot'
+            git push
+          fi
