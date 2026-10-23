@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-23T11:37:57.654695+00:00",
+  "fetched_at": "2026-10-23T17:06:19.135617+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
@@ -12,12 +12,12 @@
     "attackWins": 0,
     "defenseWins": 0,
     "builderHallLevel": 10,
-    "builderBaseTrophies": 2491,
+    "builderBaseTrophies": 2401,
     "bestBuilderBaseTrophies": 2795,
     "role": "leader",
     "warPreference": "out",
     "donations": 600,
-    "donationsReceived": 652,
+    "donationsReceived": 719,
     "clanCapitalContributions": 204171,
     "clan": {
       "tag": "#2Q0PUYL2V",
@@ -94,19 +94,19 @@
       {
         "name": "Gold Grab",
         "stars": 3,
-        "value": 999169166,
+        "value": 999837772,
         "target": 100000000,
         "info": "Steal 100000000 Gold",
-        "completionInfo": "Total Gold looted: 999169166",
+        "completionInfo": "Total Gold looted: 999837772",
         "village": "home"
       },
       {
         "name": "Elixir Escapade",
         "stars": 3,
-        "value": 1052321578,
+        "value": 1052780349,
         "target": 100000000,
         "info": "Steal 100000000 elixir",
-        "completionInfo": "Total Elixir looted: 1052321578",
+        "completionInfo": "Total Elixir looted: 1052780349",
         "village": "home"
       },
       {
@@ -130,10 +130,10 @@
       {
         "name": "Wall Buster",
         "stars": 3,
-        "value": 26744,
+        "value": 26756,
         "target": 2000,
         "info": "Destroy 2000 Walls in Multiplayer battles",
-        "completionInfo": "Total Walls destroyed: 26744",
+        "completionInfo": "Total Walls destroyed: 26756",
         "village": "home"
       },
       {
@@ -148,19 +148,19 @@
       {
         "name": "Union Buster",
         "stars": 3,
-        "value": 6067,
+        "value": 6070,
         "target": 2500,
         "info": "Destroy 2500 Builder's Huts in Multiplayer battles",
-        "completionInfo": "Total Builder's Huts destroyed: 6067",
+        "completionInfo": "Total Builder's Huts destroyed: 6070",
         "village": "home"
       },
       {
         "name": "Conqueror",
         "stars": 2,
-        "value": 1543,
+        "value": 1544,
         "target": 5000,
         "info": "Win 5000 Multiplayer battles",
-        "completionInfo": "Total multiplayer battles won: 1543",
+        "completionInfo": "Total multiplayer battles won: 1544",
         "village": "home"
       },
       {
@@ -184,19 +184,19 @@
       {
         "name": "Mortar Mauler",
         "stars": 3,
-        "value": 5594,
+        "value": 5598,
         "target": 5000,
         "info": "Destroy 5000 Mortars in Multiplayer battles",
-        "completionInfo": "Total Mortars destroyed: 5594",
+        "completionInfo": "Total Mortars destroyed: 5598",
         "village": "home"
       },
       {
         "name": "Heroic Heist",
         "stars": 3,
-        "value": 9477127,
+        "value": 9482694,
         "target": 1000000,
         "info": "Steal 1000000 Dark Elixir",
-        "completionInfo": "Total Dark Elixir looted: 9477127",
+        "completionInfo": "Total Dark Elixir looted: 9482694",
         "village": "home"
       },
       {
@@ -211,19 +211,19 @@
       {
         "name": "X-Bow Exterminator",
         "stars": 3,
-        "value": 3766,
+        "value": 3769,
         "target": 2500,
         "info": "Destroy 2500 X-Bows in Multiplayer battles",
-        "completionInfo": "Total X-Bows destroyed: 3766",
+        "completionInfo": "Total X-Bows destroyed: 3769",
         "village": "home"
       },
       {
         "name": "Firefighter",
         "stars": 2,
-        "value": 2319,
+        "value": 2322,
         "target": 5000,
         "info": "Destroy 5000 Inferno Towers in Multiplayer battles",
-        "completionInfo": "Total Inferno Towers destroyed: 2319",
+        "completionInfo": "Total Inferno Towers destroyed: 2322",
         "village": "home"
       },
       {
@@ -247,10 +247,10 @@
       {
         "name": "Anti-Artillery",
         "stars": 2,
-        "value": 815,
+        "value": 816,
         "target": 2000,
         "info": "Destroy 2000 Eagle or Inferno Artilleries in Multiplayer battles",
-        "completionInfo": "Total Eagle or Inferno Artilleries destroyed: 815",
+        "completionInfo": "Total Eagle or Inferno Artilleries destroyed: 816",
         "village": "home"
       },
       {
@@ -292,10 +292,10 @@
       {
         "name": "Un-Build It",
         "stars": 2,
-        "value": 463,
+        "value": 465,
         "target": 2000,
         "info": "Destroy 2000 Builder Halls in Builder Battles",
-        "completionInfo": "Total Builder Halls destroyed: 463",
+        "completionInfo": "Total Builder Halls destroyed: 465",
         "village": "builderBase"
       },
       {
@@ -328,10 +328,10 @@
       {
         "name": "Games Champion",
         "stars": 1,
-        "value": 45850,
+        "value": 46350,
         "target": 50000,
         "info": "Earn 50000 points in Clan Games",
-        "completionInfo": "Total Clan Games points: 45850",
+        "completionInfo": "Total Clan Games points: 46350",
         "village": "home"
       },
       {
@@ -373,10 +373,10 @@
       {
         "name": "Shattered and Scattered",
         "stars": 2,
-        "value": 973,
+        "value": 975,
         "target": 4000,
         "info": "Destroy 4000 Scattershots in Multiplayer battles",
-        "completionInfo": "Total Scattershots destroyed: 973",
+        "completionInfo": "Total Scattershots destroyed: 975",
         "village": "home"
       },
       {
@@ -660,7 +660,7 @@
       },
       {
         "name": "Golem",
-        "level": 2,
+        "level": 3,
         "maxLevel": 15,
         "village": "home"
       },
@@ -920,7 +920,7 @@
           },
           {
             "name": "Snake Bracelet",
-            "level": 13,
+            "level": 14,
             "maxLevel": 27,
             "village": "home"
           }
@@ -1073,7 +1073,7 @@
       },
       {
         "name": "Snake Bracelet",
-        "level": 13,
+        "level": 14,
         "maxLevel": 27,
         "village": "home"
       },
