@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-22T21:35:29.808012+00:00",
+  "fetched_at": "2026-10-23T04:48:38.110671+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
@@ -76,10 +76,10 @@
       {
         "name": "Nice and Tidy",
         "stars": 3,
-        "value": 1461,
+        "value": 1463,
         "target": 500,
         "info": "Remove 500 obstacles (trees, rocks, bushes)",
-        "completionInfo": "Total obstacles removed: 1461",
+        "completionInfo": "Total obstacles removed: 1463",
         "village": "home"
       },
       {
@@ -94,19 +94,19 @@
       {
         "name": "Gold Grab",
         "stars": 3,
-        "value": 995601277,
+        "value": 996932820,
         "target": 100000000,
         "info": "Steal 100000000 Gold",
-        "completionInfo": "Total Gold looted: 995601277",
+        "completionInfo": "Total Gold looted: 996932820",
         "village": "home"
       },
       {
         "name": "Elixir Escapade",
         "stars": 3,
-        "value": 1049255743,
+        "value": 1050537440,
         "target": 100000000,
         "info": "Steal 100000000 elixir",
-        "completionInfo": "Total Elixir looted: 1049255743",
+        "completionInfo": "Total Elixir looted: 1050537440",
         "village": "home"
       },
       {
@@ -130,37 +130,37 @@
       {
         "name": "Wall Buster",
         "stars": 3,
-        "value": 26468,
+        "value": 26692,
         "target": 2000,
         "info": "Destroy 2000 Walls in Multiplayer battles",
-        "completionInfo": "Total Walls destroyed: 26468",
+        "completionInfo": "Total Walls destroyed: 26692",
         "village": "home"
       },
       {
         "name": "Humiliator",
         "stars": 2,
-        "value": 1268,
+        "value": 1270,
         "target": 2000,
         "info": "Destroy 2000 Town Halls in Multiplayer battles",
-        "completionInfo": "Total Town Halls destroyed: 1268",
+        "completionInfo": "Total Town Halls destroyed: 1270",
         "village": "home"
       },
       {
         "name": "Union Buster",
         "stars": 3,
-        "value": 6033,
+        "value": 6049,
         "target": 2500,
         "info": "Destroy 2500 Builder's Huts in Multiplayer battles",
-        "completionInfo": "Total Builder's Huts destroyed: 6033",
+        "completionInfo": "Total Builder's Huts destroyed: 6049",
         "village": "home"
       },
       {
         "name": "Conqueror",
         "stars": 2,
-        "value": 1536,
+        "value": 1539,
         "target": 5000,
         "info": "Win 5000 Multiplayer battles",
-        "completionInfo": "Total multiplayer battles won: 1536",
+        "completionInfo": "Total multiplayer battles won: 1539",
         "village": "home"
       },
       {
@@ -184,19 +184,19 @@
       {
         "name": "Mortar Mauler",
         "stars": 3,
-        "value": 5564,
+        "value": 5580,
         "target": 5000,
         "info": "Destroy 5000 Mortars in Multiplayer battles",
-        "completionInfo": "Total Mortars destroyed: 5564",
+        "completionInfo": "Total Mortars destroyed: 5580",
         "village": "home"
       },
       {
         "name": "Heroic Heist",
         "stars": 3,
-        "value": 9447981,
+        "value": 9456422,
         "target": 1000000,
         "info": "Steal 1000000 Dark Elixir",
-        "completionInfo": "Total Dark Elixir looted: 9447981",
+        "completionInfo": "Total Dark Elixir looted: 9456422",
         "village": "home"
       },
       {
@@ -211,19 +211,19 @@
       {
         "name": "X-Bow Exterminator",
         "stars": 3,
-        "value": 3742,
+        "value": 3754,
         "target": 2500,
         "info": "Destroy 2500 X-Bows in Multiplayer battles",
-        "completionInfo": "Total X-Bows destroyed: 3742",
+        "completionInfo": "Total X-Bows destroyed: 3754",
         "village": "home"
       },
       {
         "name": "Firefighter",
         "stars": 2,
-        "value": 2301,
+        "value": 2309,
         "target": 5000,
         "info": "Destroy 5000 Inferno Towers in Multiplayer battles",
-        "completionInfo": "Total Inferno Towers destroyed: 2301",
+        "completionInfo": "Total Inferno Towers destroyed: 2309",
         "village": "home"
       },
       {
@@ -247,10 +247,10 @@
       {
         "name": "Anti-Artillery",
         "stars": 2,
-        "value": 809,
+        "value": 811,
         "target": 2000,
         "info": "Destroy 2000 Eagle or Inferno Artilleries in Multiplayer battles",
-        "completionInfo": "Total Eagle or Inferno Artilleries destroyed: 809",
+        "completionInfo": "Total Eagle or Inferno Artilleries destroyed: 811",
         "village": "home"
       },
       {
@@ -328,10 +328,10 @@
       {
         "name": "Games Champion",
         "stars": 1,
-        "value": 42550,
+        "value": 44850,
         "target": 50000,
         "info": "Earn 50000 points in Clan Games",
-        "completionInfo": "Total Clan Games points: 42550",
+        "completionInfo": "Total Clan Games points: 44850",
         "village": "home"
       },
       {
@@ -373,37 +373,37 @@
       {
         "name": "Shattered and Scattered",
         "stars": 2,
-        "value": 961,
+        "value": 967,
         "target": 4000,
         "info": "Destroy 4000 Scattershots in Multiplayer battles",
-        "completionInfo": "Total Scattershots destroyed: 961",
+        "completionInfo": "Total Scattershots destroyed: 967",
         "village": "home"
       },
       {
         "name": "Not So Easy This Time",
         "stars": 2,
-        "value": 587,
+        "value": 589,
         "target": 2000,
         "info": "Destroy 2000 weaponized Town Halls in Multiplayer battles",
-        "completionInfo": "Weaponized Town Halls destroyed: 587",
+        "completionInfo": "Weaponized Town Halls destroyed: 589",
         "village": "home"
       },
       {
         "name": "Bust This!",
         "stars": 2,
-        "value": 1653,
+        "value": 1664,
         "target": 2500,
         "info": "Destroy 2500 weaponized Builder's Huts in Multiplayer battles",
-        "completionInfo": "Total weaponized Builder's Huts destroyed: 1653",
+        "completionInfo": "Total weaponized Builder's Huts destroyed: 1664",
         "village": "home"
       },
       {
         "name": "Superb Work",
         "stars": 1,
-        "value": 59,
+        "value": 60,
         "target": 100,
         "info": "Boost a Super Troop 100 times",
-        "completionInfo": "Total times Super Troops boosted: 59",
+        "completionInfo": "Total times Super Troops boosted: 60",
         "village": "home"
       },
       {
@@ -436,19 +436,19 @@
       {
         "name": "Counterspell",
         "stars": 2,
-        "value": 448,
+        "value": 451,
         "target": 4000,
         "info": "Destroy 4000 Spell Towers in Multiplayer Battles",
-        "completionInfo": "Total Spell Towers Destroyed: 448",
+        "completionInfo": "Total Spell Towers Destroyed: 451",
         "village": "home"
       },
       {
         "name": "Monolith Masher",
         "stars": 1,
-        "value": 189,
+        "value": 192,
         "target": 200,
         "info": "Destroy 200 Monoliths in Multiplayer Battles",
-        "completionInfo": "Total Monoliths Destroyed: 189",
+        "completionInfo": "Total Monoliths Destroyed: 192",
         "village": "home"
       },
       {
@@ -472,19 +472,19 @@
       {
         "name": "Multi-Archer Tower Terminator",
         "stars": 0,
-        "value": 22,
+        "value": 23,
         "target": 50,
         "info": "Destroy 50 Multi-Archer Towers in Multiplayer Battles",
-        "completionInfo": "Total Multi-Archer Towers Destroyed: 22",
+        "completionInfo": "Total Multi-Archer Towers Destroyed: 23",
         "village": "home"
       },
       {
         "name": "Ricochet Cannon Crusher",
         "stars": 0,
-        "value": 23,
+        "value": 25,
         "target": 50,
         "info": "Destroy 50 Ricochet Cannons in Multiplayer Battles",
-        "completionInfo": "Total Ricochet Cannons Destroyed: 23",
+        "completionInfo": "Total Ricochet Cannons Destroyed: 25",
         "village": "home"
       },
       {
@@ -517,10 +517,10 @@
       {
         "name": "Crafter\u2019s Nightmare",
         "stars": 1,
-        "value": 105,
+        "value": 107,
         "target": 200,
         "info": "Destroy 200 Crafted Defenses in Multiplayer Battles",
-        "completionInfo": "Total Crafted Defenses Destroyed: 105",
+        "completionInfo": "Total Crafted Defenses Destroyed: 107",
         "village": "home"
       },
       {
@@ -698,6 +698,7 @@
         "name": "Super Wall Breaker",
         "level": 1,
         "maxLevel": 10,
+        "superTroopIsActive": true,
         "village": "home"
       },
       {
