@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-25T16:18:19.312926+00:00",
+  "fetched_at": "2026-10-25T20:50:31.334770+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
@@ -16,7 +16,7 @@
     "bestBuilderBaseTrophies": 2795,
     "role": "leader",
     "warPreference": "in",
-    "donations": 682,
+    "donations": 774,
     "donationsReceived": 962,
     "clanCapitalContributions": 214057,
     "clan": {
@@ -175,10 +175,10 @@
       {
         "name": "Friend in Need",
         "stars": 1,
-        "value": 4588,
+        "value": 4650,
         "target": 5000,
         "info": "Donate 5000 capacity worth of reinforcements to Clanmates",
-        "completionInfo": "Total capacity donated: 4588",
+        "completionInfo": "Total capacity donated: 4650",
         "village": "home"
       },
       {
@@ -409,10 +409,10 @@
       {
         "name": "Siege Sharer",
         "stars": 1,
-        "value": 57,
+        "value": 58,
         "target": 1000,
         "info": "Donate 1000 Siege Machines",
-        "completionInfo": "Total Siege Machines donated: 57",
+        "completionInfo": "Total Siege Machines donated: 58",
         "village": "home"
       },
       {
@@ -949,7 +949,7 @@
       },
       {
         "name": "Grand Warden",
-        "level": 29,
+        "level": 30,
         "maxLevel": 85,
         "equipment": [
           {
