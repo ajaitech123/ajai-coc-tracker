@@ -1,23 +1,23 @@
 {
-  "fetched_at": "2026-10-26T04:46:15.013355+00:00",
+  "fetched_at": "2026-10-26T13:03:08.914992+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
     "townHallLevel": 15,
     "townHallWeaponLevel": 1,
     "expLevel": 108,
-    "trophies": 315,
+    "trophies": 0,
     "bestTrophies": 344,
-    "warStars": 152,
+    "warStars": 155,
     "attackWins": 0,
     "defenseWins": 0,
     "builderHallLevel": 10,
-    "builderBaseTrophies": 2433,
+    "builderBaseTrophies": 2463,
     "bestBuilderBaseTrophies": 2795,
     "role": "leader",
     "warPreference": "in",
     "donations": 877,
-    "donationsReceived": 999,
+    "donationsReceived": 1066,
     "clanCapitalContributions": 214057,
     "clan": {
       "tag": "#2Q0PUYL2V",
@@ -30,21 +30,21 @@
       }
     },
     "leagueTier": {
-      "id": 105000017,
-      "name": "Witch League 17",
+      "id": 105000018,
+      "name": "Witch League 18",
       "iconUrls": {
-        "small": "https://api-assets.clashofclans.com/leaguetiers/125/3mEMvpajLceJ3EKu7u_JIh_cOEsT7wyh701zum9hqCY.png",
-        "large": "https://api-assets.clashofclans.com/leaguetiers/326/3mEMvpajLceJ3EKu7u_JIh_cOEsT7wyh701zum9hqCY.png"
+        "small": "https://api-assets.clashofclans.com/leaguetiers/125/GeLamlTvRYNnZp5lEW64pyaORN30rCdrxTjU7oJoTN8.png",
+        "large": "https://api-assets.clashofclans.com/leaguetiers/326/GeLamlTvRYNnZp5lEW64pyaORN30rCdrxTjU7oJoTN8.png"
       }
     },
     "builderBaseLeague": {
       "id": 44000022,
       "name": "Brass League I"
     },
-    "currentLeagueGroupTag": "#8VL989J",
-    "currentLeagueSeasonId": 1792386000,
-    "previousLeagueGroupTag": "#8UPCP2Q",
-    "previousLeagueSeasonId": 1791176400,
+    "currentLeagueGroupTag": "#909288P",
+    "currentLeagueSeasonId": 1792990800,
+    "previousLeagueGroupTag": "#8VL989J",
+    "previousLeagueSeasonId": 1792386000,
     "achievements": [
       {
         "name": "Bigger Coffers",
@@ -58,10 +58,10 @@
       {
         "name": "Get those Goblins!",
         "stars": 3,
-        "value": 241,
+        "value": 244,
         "target": 150,
         "info": "Win 150 Stars on the Campaign Map",
-        "completionInfo": "Stars in Campaign Map: 241",
+        "completionInfo": "Stars in Campaign Map: 244",
         "village": "home"
       },
       {
@@ -76,10 +76,10 @@
       {
         "name": "Nice and Tidy",
         "stars": 3,
-        "value": 1469,
+        "value": 1478,
         "target": 500,
         "info": "Remove 500 obstacles (trees, rocks, bushes)",
-        "completionInfo": "Total obstacles removed: 1469",
+        "completionInfo": "Total obstacles removed: 1478",
         "village": "home"
       },
       {
@@ -94,19 +94,19 @@
       {
         "name": "Gold Grab",
         "stars": 3,
-        "value": 1017416297,
+        "value": 1018242420,
         "target": 100000000,
         "info": "Steal 100000000 Gold",
-        "completionInfo": "Total Gold looted: 1017416297",
+        "completionInfo": "Total Gold looted: 1018242420",
         "village": "home"
       },
       {
         "name": "Elixir Escapade",
         "stars": 3,
-        "value": 1071613925,
+        "value": 1072570717,
         "target": 100000000,
         "info": "Steal 100000000 elixir",
-        "completionInfo": "Total Elixir looted: 1071613925",
+        "completionInfo": "Total Elixir looted: 1072570717",
         "village": "home"
       },
       {
@@ -193,10 +193,10 @@
       {
         "name": "Heroic Heist",
         "stars": 3,
-        "value": 9646814,
+        "value": 9648315,
         "target": 1000000,
         "info": "Steal 1000000 Dark Elixir",
-        "completionInfo": "Total Dark Elixir looted: 9646814",
+        "completionInfo": "Total Dark Elixir looted: 9648315",
         "village": "home"
       },
       {
@@ -229,10 +229,10 @@
       {
         "name": "War Hero",
         "stars": 2,
-        "value": 152,
+        "value": 155,
         "target": 1000,
         "info": "Score 1000 Stars for your clan in Clan War battles",
-        "completionInfo": "Total Stars scored for clan in Clan War battles: 152",
+        "completionInfo": "Total Stars scored for clan in Clan War battles: 155",
         "village": "home"
       },
       {
@@ -292,10 +292,10 @@
       {
         "name": "Un-Build It",
         "stars": 2,
-        "value": 474,
+        "value": 475,
         "target": 2000,
         "info": "Destroy 2000 Builder Halls in Builder Battles",
-        "completionInfo": "Total Builder Halls destroyed: 474",
+        "completionInfo": "Total Builder Halls destroyed: 475",
         "village": "builderBase"
       },
       {
@@ -364,10 +364,10 @@
       {
         "name": "Well Seasoned",
         "stars": 3,
-        "value": 59805,
+        "value": 60255,
         "target": 50000,
         "info": "Earn 50000 points in Season Challenges",
-        "completionInfo": "Total Season Challenges points: 59805",
+        "completionInfo": "Total Season Challenges points: 60255",
         "village": "home"
       },
       {
@@ -453,8 +453,8 @@
       },
       {
         "name": "Ungrateful Child",
-        "stars": 0,
-        "value": 0,
+        "stars": 1,
+        "value": 1,
         "target": 1,
         "info": "Defeat M.O.M.M.A on the Campaign Map",
         "completionInfo": null,
@@ -919,7 +919,7 @@
           },
           {
             "name": "Snake Bracelet",
-            "level": 15,
+            "level": 16,
             "maxLevel": 27,
             "village": "home"
           }
@@ -1072,7 +1072,7 @@
       },
       {
         "name": "Snake Bracelet",
-        "level": 15,
+        "level": 16,
         "maxLevel": 27,
         "village": "home"
       },
