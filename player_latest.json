@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-27T05:03:54.389481+00:00",
+  "fetched_at": "2026-10-27T12:10:43.762553+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
@@ -17,8 +17,8 @@
     "role": "leader",
     "warPreference": "in",
     "donations": 877,
-    "donationsReceived": 1066,
-    "clanCapitalContributions": 214057,
+    "donationsReceived": 1131,
+    "clanCapitalContributions": 215257,
     "clan": {
       "tag": "#2Q0PUYL2V",
       "name": "BLASTERS",
@@ -427,10 +427,10 @@
       {
         "name": "Most Valuable Clanmate",
         "stars": 1,
-        "value": 214057,
+        "value": 215257,
         "target": 500000,
         "info": "Contribute 500000 Capital Gold to upgrades in the Clan Capital",
-        "completionInfo": "Total Capital Gold contributed: 214057",
+        "completionInfo": "Total Capital Gold contributed: 215257",
         "village": "clanCapital"
       },
       {
