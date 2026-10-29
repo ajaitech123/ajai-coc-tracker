@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-29T12:59:39.124669+00:00",
+  "fetched_at": "2026-10-29T22:44:43.153001+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
@@ -76,10 +76,10 @@
       {
         "name": "Nice and Tidy",
         "stars": 3,
-        "value": 1488,
+        "value": 1489,
         "target": 500,
         "info": "Remove 500 obstacles (trees, rocks, bushes)",
-        "completionInfo": "Total obstacles removed: 1488",
+        "completionInfo": "Total obstacles removed: 1489",
         "village": "home"
       },
       {
@@ -666,7 +666,7 @@
       },
       {
         "name": "Witch",
-        "level": 4,
+        "level": 5,
         "maxLevel": 8,
         "village": "home"
       },
