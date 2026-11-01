@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-31T21:33:19.373221+00:00",
+  "fetched_at": "2026-11-01T06:02:43.554543+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
@@ -692,7 +692,6 @@
         "name": "Super Archer",
         "level": 1,
         "maxLevel": 10,
-        "superTroopIsActive": true,
         "village": "home"
       },
       {
@@ -1274,6 +1273,12 @@
       {
         "name": "Skeleton Spell",
         "level": 2,
+        "maxLevel": 8,
+        "village": "home"
+      },
+      {
+        "name": "Bat Spell",
+        "level": 1,
         "maxLevel": 8,
         "village": "home"
       },
