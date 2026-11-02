@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-01T22:01:40.595288+00:00",
+  "fetched_at": "2026-11-02T06:00:26.219645+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
     "townHallLevel": 15,
     "townHallWeaponLevel": 1,
     "expLevel": 108,
-    "trophies": 350,
+    "trophies": 0,
     "bestTrophies": 344,
     "warStars": 160,
     "attackWins": 0,
@@ -16,8 +16,8 @@
     "bestBuilderBaseTrophies": 2795,
     "role": "leader",
     "warPreference": "in",
-    "donations": 926,
-    "donationsReceived": 1531,
+    "donations": 0,
+    "donationsReceived": 0,
     "clanCapitalContributions": 215257,
     "clan": {
       "tag": "#2Q0PUYL2V",
@@ -30,21 +30,20 @@
       }
     },
     "leagueTier": {
-      "id": 105000018,
-      "name": "Witch League 18",
+      "id": 105000019,
+      "name": "Golem League 19",
       "iconUrls": {
-        "small": "https://api-assets.clashofclans.com/leaguetiers/125/GeLamlTvRYNnZp5lEW64pyaORN30rCdrxTjU7oJoTN8.png",
-        "large": "https://api-assets.clashofclans.com/leaguetiers/326/GeLamlTvRYNnZp5lEW64pyaORN30rCdrxTjU7oJoTN8.png"
+        "small": "https://api-assets.clashofclans.com/leaguetiers/125/yS8XBv_a_SNtCpcofsWMFaojRNwO504Py7HyDCBCjYU.png",
+        "large": "https://api-assets.clashofclans.com/leaguetiers/326/yS8XBv_a_SNtCpcofsWMFaojRNwO504Py7HyDCBCjYU.png"
       }
     },
     "builderBaseLeague": {
       "id": 44000022,
       "name": "Brass League I"
     },
-    "currentLeagueGroupTag": "#909288P",
-    "currentLeagueSeasonId": 1792990800,
-    "previousLeagueGroupTag": "#8VL989J",
-    "previousLeagueSeasonId": 1792386000,
+    "currentLeagueSeasonId": 0,
+    "previousLeagueGroupTag": "#909288P",
+    "previousLeagueSeasonId": 1792990800,
     "achievements": [
       {
         "name": "Bigger Coffers",
