@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-03T14:13:16.106870+00:00",
+  "fetched_at": "2026-11-03T23:22:32.613482+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
@@ -17,7 +17,7 @@
     "role": "coLeader",
     "warPreference": "in",
     "donations": 362,
-    "donationsReceived": 418,
+    "donationsReceived": 485,
     "clanCapitalContributions": 216457,
     "clan": {
       "tag": "#2Q0PUYL2V",
@@ -933,15 +933,15 @@
         "maxLevel": 110,
         "equipment": [
           {
-            "name": "Healer Puppet",
-            "level": 1,
+            "name": "Giant Arrow",
+            "level": 11,
             "maxLevel": 18,
             "village": "home"
           },
           {
-            "name": "Giant Arrow",
-            "level": 11,
-            "maxLevel": 18,
+            "name": "Frozen Arrow",
+            "level": 18,
+            "maxLevel": 27,
             "village": "home"
           }
         ],
@@ -959,9 +959,9 @@
             "village": "home"
           },
           {
-            "name": "Eternal Tome",
-            "level": 12,
-            "maxLevel": 18,
+            "name": "Fireball",
+            "level": 14,
+            "maxLevel": 27,
             "village": "home"
           }
         ],
@@ -1026,7 +1026,7 @@
         "equipment": [
           {
             "name": "Revenge Deck",
-            "level": 13,
+            "level": 14,
             "maxLevel": 27,
             "village": "home"
           },
@@ -1091,7 +1091,7 @@
       },
       {
         "name": "Revenge Deck",
-        "level": 13,
+        "level": 14,
         "maxLevel": 27,
         "village": "home"
       },
@@ -1162,6 +1162,12 @@
         "village": "home"
       },
       {
+        "name": "Healer Puppet",
+        "level": 3,
+        "maxLevel": 18,
+        "village": "home"
+      },
+      {
         "name": "Rage Gem",
         "level": 15,
         "maxLevel": 18,
@@ -1200,12 +1206,6 @@
       {
         "name": "Flame Blower",
         "level": 11,
-        "maxLevel": 18,
-        "village": "home"
-      },
-      {
-        "name": "Healer Puppet",
-        "level": 1,
         "maxLevel": 18,
         "village": "home"
       },
