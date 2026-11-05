@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-05T06:45:19.713455+00:00",
+  "fetched_at": "2026-11-05T19:56:17.889328+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
@@ -16,8 +16,8 @@
     "bestBuilderBaseTrophies": 2795,
     "role": "coLeader",
     "warPreference": "in",
-    "donations": 472,
-    "donationsReceived": 754,
+    "donations": 0,
+    "donationsReceived": 5,
     "clanCapitalContributions": 217057,
     "clan": {
       "tag": "#2Q0PUYL2V",
@@ -76,10 +76,10 @@
       {
         "name": "Nice and Tidy",
         "stars": 3,
-        "value": 1510,
+        "value": 1514,
         "target": 500,
         "info": "Remove 500 obstacles (trees, rocks, bushes)",
-        "completionInfo": "Total obstacles removed: 1510",
+        "completionInfo": "Total obstacles removed: 1514",
         "village": "home"
       },
       {
@@ -121,10 +121,10 @@
       {
         "name": "Empire Builder",
         "stars": 3,
-        "value": 7,
+        "value": 8,
         "target": 4,
         "info": "Upgrade Clan Castle to level 4",
-        "completionInfo": "Current Clan Castle level: 7",
+        "completionInfo": "Current Clan Castle level: 8",
         "village": "home"
       },
       {
@@ -364,10 +364,10 @@
       {
         "name": "Well Seasoned",
         "stars": 3,
-        "value": 61695,
+        "value": 61735,
         "target": 50000,
         "info": "Earn 50000 points in Season Challenges",
-        "completionInfo": "Total Season Challenges points: 61695",
+        "completionInfo": "Total Season Challenges points: 61735",
         "village": "home"
       },
       {
@@ -692,7 +692,6 @@
         "name": "Super Archer",
         "level": 1,
         "maxLevel": 10,
-        "superTroopIsActive": true,
         "village": "home"
       },
       {
@@ -1243,7 +1242,7 @@
       },
       {
         "name": "Freeze Spell",
-        "level": 2,
+        "level": 3,
         "maxLevel": 8,
         "village": "home"
       },
