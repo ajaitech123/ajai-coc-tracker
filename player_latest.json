@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-07T12:59:19.555099+00:00",
+  "fetched_at": "2026-11-07T21:49:17.673144+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
@@ -16,8 +16,8 @@
     "bestBuilderBaseTrophies": 2795,
     "role": "coLeader",
     "warPreference": "in",
-    "donations": 250,
-    "donationsReceived": 325,
+    "donations": 285,
+    "donationsReceived": 365,
     "clanCapitalContributions": 227282,
     "clan": {
       "tag": "#2Q0PUYL2V",
@@ -76,10 +76,10 @@
       {
         "name": "Nice and Tidy",
         "stars": 3,
-        "value": 1524,
+        "value": 1525,
         "target": 500,
         "info": "Remove 500 obstacles (trees, rocks, bushes)",
-        "completionInfo": "Total obstacles removed: 1524",
+        "completionInfo": "Total obstacles removed: 1525",
         "village": "home"
       },
       {
@@ -175,10 +175,10 @@
       {
         "name": "Friend in Need",
         "stars": 2,
-        "value": 5210,
+        "value": 5244,
         "target": 25000,
         "info": "Donate 25000 capacity worth of reinforcements to Clanmates",
-        "completionInfo": "Total capacity donated: 5210",
+        "completionInfo": "Total capacity donated: 5244",
         "village": "home"
       },
       {
@@ -256,10 +256,10 @@
       {
         "name": "Sharing is caring",
         "stars": 1,
-        "value": 236,
+        "value": 237,
         "target": 2000,
         "info": "Donate 2000 Spell storage capacity worth of Spells",
-        "completionInfo": "Total Spell capacity donated: 236",
+        "completionInfo": "Total Spell capacity donated: 237",
         "village": "home"
       },
       {
