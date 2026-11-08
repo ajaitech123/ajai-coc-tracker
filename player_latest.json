@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-07T21:49:17.673144+00:00",
+  "fetched_at": "2026-11-08T05:59:20.638990+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
@@ -16,7 +16,7 @@
     "bestBuilderBaseTrophies": 2795,
     "role": "coLeader",
     "warPreference": "in",
-    "donations": 285,
+    "donations": 368,
     "donationsReceived": 365,
     "clanCapitalContributions": 227282,
     "clan": {
@@ -94,19 +94,19 @@
       {
         "name": "Gold Grab",
         "stars": 3,
-        "value": 1055357225,
+        "value": 1056094177,
         "target": 100000000,
         "info": "Steal 100000000 Gold",
-        "completionInfo": "Total Gold looted: 1055357225",
+        "completionInfo": "Total Gold looted: 1056094177",
         "village": "home"
       },
       {
         "name": "Elixir Escapade",
         "stars": 3,
-        "value": 1110122071,
+        "value": 1110790640,
         "target": 100000000,
         "info": "Steal 100000000 elixir",
-        "completionInfo": "Total Elixir looted: 1110122071",
+        "completionInfo": "Total Elixir looted: 1110790640",
         "village": "home"
       },
       {
@@ -130,10 +130,10 @@
       {
         "name": "Wall Buster",
         "stars": 3,
-        "value": 27766,
+        "value": 27779,
         "target": 2000,
         "info": "Destroy 2000 Walls in Multiplayer battles",
-        "completionInfo": "Total Walls destroyed: 27766",
+        "completionInfo": "Total Walls destroyed: 27779",
         "village": "home"
       },
       {
@@ -175,28 +175,28 @@
       {
         "name": "Friend in Need",
         "stars": 2,
-        "value": 5244,
+        "value": 5294,
         "target": 25000,
         "info": "Donate 25000 capacity worth of reinforcements to Clanmates",
-        "completionInfo": "Total capacity donated: 5244",
+        "completionInfo": "Total capacity donated: 5294",
         "village": "home"
       },
       {
         "name": "Mortar Mauler",
         "stars": 3,
-        "value": 5862,
+        "value": 5863,
         "target": 5000,
         "info": "Destroy 5000 Mortars in Multiplayer battles",
-        "completionInfo": "Total Mortars destroyed: 5862",
+        "completionInfo": "Total Mortars destroyed: 5863",
         "village": "home"
       },
       {
         "name": "Heroic Heist",
         "stars": 3,
-        "value": 10038562,
+        "value": 10045308,
         "target": 1000000,
         "info": "Steal 1000000 Dark Elixir",
-        "completionInfo": "Total Dark Elixir looted: 10038562",
+        "completionInfo": "Total Dark Elixir looted: 10045308",
         "village": "home"
       },
       {
@@ -256,10 +256,10 @@
       {
         "name": "Sharing is caring",
         "stars": 1,
-        "value": 237,
+        "value": 240,
         "target": 2000,
         "info": "Donate 2000 Spell storage capacity worth of Spells",
-        "completionInfo": "Total Spell capacity donated: 237",
+        "completionInfo": "Total Spell capacity donated: 240",
         "village": "home"
       },
       {
@@ -373,10 +373,10 @@
       {
         "name": "Shattered and Scattered",
         "stars": 2,
-        "value": 1092,
+        "value": 1093,
         "target": 4000,
         "info": "Destroy 4000 Scattershots in Multiplayer battles",
-        "completionInfo": "Total Scattershots destroyed: 1092",
+        "completionInfo": "Total Scattershots destroyed: 1093",
         "village": "home"
       },
       {
@@ -409,10 +409,10 @@
       {
         "name": "Siege Sharer",
         "stars": 1,
-        "value": 68,
+        "value": 69,
         "target": 1000,
         "info": "Donate 1000 Siege Machines",
-        "completionInfo": "Total Siege Machines donated: 68",
+        "completionInfo": "Total Siege Machines donated: 69",
         "village": "home"
       },
       {
@@ -517,10 +517,10 @@
       {
         "name": "Crafter\u2019s Nightmare",
         "stars": 1,
-        "value": 169,
+        "value": 170,
         "target": 200,
         "info": "Destroy 200 Crafted Defenses in Multiplayer Battles",
-        "completionInfo": "Total Crafted Defenses Destroyed: 169",
+        "completionInfo": "Total Crafted Defenses Destroyed: 170",
         "village": "home"
       },
       {
@@ -907,7 +907,7 @@
       },
       {
         "name": "Unicorn",
-        "level": 1,
+        "level": 2,
         "maxLevel": 15,
         "village": "home"
       }
