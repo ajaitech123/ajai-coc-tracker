@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-08T05:59:20.638990+00:00",
+  "fetched_at": "2026-11-08T13:23:35.129748+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
@@ -17,7 +17,7 @@
     "role": "coLeader",
     "warPreference": "in",
     "donations": 368,
-    "donationsReceived": 365,
+    "donationsReceived": 407,
     "clanCapitalContributions": 227282,
     "clan": {
       "tag": "#2Q0PUYL2V",
@@ -94,10 +94,10 @@
       {
         "name": "Gold Grab",
         "stars": 3,
-        "value": 1056094177,
+        "value": 1056099467,
         "target": 100000000,
         "info": "Steal 100000000 Gold",
-        "completionInfo": "Total Gold looted: 1056094177",
+        "completionInfo": "Total Gold looted: 1056099467",
         "village": "home"
       },
       {
@@ -166,10 +166,10 @@
       {
         "name": "Unbreakable",
         "stars": 1,
-        "value": 40,
+        "value": 41,
         "target": 250,
         "info": "Successfully defend against 250 attacks",
-        "completionInfo": "Total defenses won: 40",
+        "completionInfo": "Total defenses won: 41",
         "village": "home"
       },
       {
@@ -1249,7 +1249,7 @@
       },
       {
         "name": "Freeze Spell",
-        "level": 4,
+        "level": 5,
         "maxLevel": 8,
         "village": "home"
       },
