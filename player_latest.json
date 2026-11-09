@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-08T22:03:50.339267+00:00",
+  "fetched_at": "2026-11-09T06:26:05.635849+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
     "townHallLevel": 15,
     "townHallWeaponLevel": 1,
     "expLevel": 110,
-    "trophies": 288,
+    "trophies": 0,
     "bestTrophies": 344,
     "warStars": 177,
     "attackWins": 0,
@@ -16,8 +16,8 @@
     "bestBuilderBaseTrophies": 2795,
     "role": "coLeader",
     "warPreference": "in",
-    "donations": 398,
-    "donationsReceived": 408,
+    "donations": 428,
+    "donationsReceived": 449,
     "clanCapitalContributions": 227282,
     "clan": {
       "tag": "#2Q0PUYL2V",
@@ -41,10 +41,9 @@
       "id": 44000022,
       "name": "Brass League I"
     },
-    "currentLeagueGroupTag": "#90UQUL9",
-    "currentLeagueSeasonId": 1793595600,
-    "previousLeagueGroupTag": "#909288P",
-    "previousLeagueSeasonId": 1792990800,
+    "currentLeagueSeasonId": 0,
+    "previousLeagueGroupTag": "#90UQUL9",
+    "previousLeagueSeasonId": 1793595600,
     "achievements": [
       {
         "name": "Bigger Coffers",
@@ -76,10 +75,10 @@
       {
         "name": "Nice and Tidy",
         "stars": 3,
-        "value": 1528,
+        "value": 1529,
         "target": 500,
         "info": "Remove 500 obstacles (trees, rocks, bushes)",
-        "completionInfo": "Total obstacles removed: 1528",
+        "completionInfo": "Total obstacles removed: 1529",
         "village": "home"
       },
       {
@@ -364,10 +363,10 @@
       {
         "name": "Well Seasoned",
         "stars": 3,
-        "value": 62015,
+        "value": 62055,
         "target": 50000,
         "info": "Earn 50000 points in Season Challenges",
-        "completionInfo": "Total Season Challenges points: 62015",
+        "completionInfo": "Total Season Challenges points: 62055",
         "village": "home"
       },
       {
@@ -409,10 +408,10 @@
       {
         "name": "Siege Sharer",
         "stars": 1,
-        "value": 70,
+        "value": 71,
         "target": 1000,
         "info": "Donate 1000 Siege Machines",
-        "completionInfo": "Total Siege Machines donated: 70",
+        "completionInfo": "Total Siege Machines donated: 71",
         "village": "home"
       },
       {
@@ -756,7 +755,7 @@
       },
       {
         "name": "Baby Dragon",
-        "level": 9,
+        "level": 10,
         "maxLevel": 20,
         "village": "builderBase"
       },
@@ -854,7 +853,6 @@
         "name": "Super Dragon",
         "level": 1,
         "maxLevel": 11,
-        "superTroopIsActive": true,
         "village": "home"
       },
       {
@@ -907,7 +905,7 @@
       },
       {
         "name": "Unicorn",
-        "level": 2,
+        "level": 3,
         "maxLevel": 15,
         "village": "home"
       }
