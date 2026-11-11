@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-11T06:17:29.242705+00:00",
+  "fetched_at": "2026-11-11T19:35:10.030398+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
     "townHallLevel": 15,
     "townHallWeaponLevel": 1,
-    "expLevel": 110,
+    "expLevel": 111,
     "trophies": 349,
     "bestTrophies": 349,
     "warStars": 180,
@@ -18,7 +18,7 @@
     "warPreference": "in",
     "donations": 230,
     "donationsReceived": 0,
-    "clanCapitalContributions": 229482,
+    "clanCapitalContributions": 230082,
     "clan": {
       "tag": "#2C8P0U00Y",
       "name": "T\u0394MIL W\u0394RRIORS",
@@ -427,10 +427,10 @@
       {
         "name": "Most Valuable Clanmate",
         "stars": 1,
-        "value": 229482,
+        "value": 230082,
         "target": 500000,
         "info": "Contribute 500000 Capital Gold to upgrades in the Clan Capital",
-        "completionInfo": "Total Capital Gold contributed: 229482",
+        "completionInfo": "Total Capital Gold contributed: 230082",
         "village": "clanCapital"
       },
       {
@@ -1299,6 +1299,12 @@
         "name": "Invisibility Spell",
         "level": 2,
         "maxLevel": 4,
+        "village": "home"
+      },
+      {
+        "name": "Recall Spell",
+        "level": 1,
+        "maxLevel": 7,
         "village": "home"
       }
     ]
