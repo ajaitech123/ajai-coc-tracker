@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-13T06:44:35.834065+00:00",
+  "fetched_at": "2026-11-13T19:40:46.945892+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
@@ -8,7 +8,7 @@
     "expLevel": 111,
     "trophies": 349,
     "bestTrophies": 349,
-    "warStars": 186,
+    "warStars": 192,
     "attackWins": 0,
     "defenseWins": 0,
     "builderHallLevel": 10,
@@ -16,8 +16,8 @@
     "bestBuilderBaseTrophies": 2795,
     "role": "coLeader",
     "warPreference": "in",
-    "donations": 138,
-    "donationsReceived": 47,
+    "donations": 259,
+    "donationsReceived": 138,
     "clanCapitalContributions": 230082,
     "clan": {
       "tag": "#2Q0PUYL2V",
@@ -76,10 +76,10 @@
       {
         "name": "Nice and Tidy",
         "stars": 3,
-        "value": 1549,
+        "value": 1551,
         "target": 500,
         "info": "Remove 500 obstacles (trees, rocks, bushes)",
-        "completionInfo": "Total obstacles removed: 1549",
+        "completionInfo": "Total obstacles removed: 1551",
         "village": "home"
       },
       {
@@ -94,19 +94,19 @@
       {
         "name": "Gold Grab",
         "stars": 3,
-        "value": 1079259496,
+        "value": 1079528496,
         "target": 100000000,
         "info": "Steal 100000000 Gold",
-        "completionInfo": "Total Gold looted: 1079259496",
+        "completionInfo": "Total Gold looted: 1079528496",
         "village": "home"
       },
       {
         "name": "Elixir Escapade",
         "stars": 3,
-        "value": 1131662144,
+        "value": 1131931144,
         "target": 100000000,
         "info": "Steal 100000000 elixir",
-        "completionInfo": "Total Elixir looted: 1131662144",
+        "completionInfo": "Total Elixir looted: 1131931144",
         "village": "home"
       },
       {
@@ -175,10 +175,10 @@
       {
         "name": "Friend in Need",
         "stars": 2,
-        "value": 5816,
+        "value": 5870,
         "target": 25000,
         "info": "Donate 25000 capacity worth of reinforcements to Clanmates",
-        "completionInfo": "Total capacity donated: 5816",
+        "completionInfo": "Total capacity donated: 5870",
         "village": "home"
       },
       {
@@ -193,10 +193,10 @@
       {
         "name": "Heroic Heist",
         "stars": 3,
-        "value": 10270807,
+        "value": 10272247,
         "target": 1000000,
         "info": "Steal 1000000 Dark Elixir",
-        "completionInfo": "Total Dark Elixir looted: 10270807",
+        "completionInfo": "Total Dark Elixir looted: 10272247",
         "village": "home"
       },
       {
@@ -229,10 +229,10 @@
       {
         "name": "War Hero",
         "stars": 2,
-        "value": 186,
+        "value": 192,
         "target": 1000,
         "info": "Score 1000 Stars for your clan in Clan War battles",
-        "completionInfo": "Total Stars scored for clan in Clan War battles: 186",
+        "completionInfo": "Total Stars scored for clan in Clan War battles: 192",
         "village": "home"
       },
       {
@@ -256,10 +256,10 @@
       {
         "name": "Sharing is caring",
         "stars": 1,
-        "value": 265,
+        "value": 272,
         "target": 2000,
         "info": "Donate 2000 Spell storage capacity worth of Spells",
-        "completionInfo": "Total Spell capacity donated: 265",
+        "completionInfo": "Total Spell capacity donated: 272",
         "village": "home"
       },
       {
@@ -364,10 +364,10 @@
       {
         "name": "Well Seasoned",
         "stars": 3,
-        "value": 62415,
+        "value": 62505,
         "target": 50000,
         "info": "Earn 50000 points in Season Challenges",
-        "completionInfo": "Total Season Challenges points: 62415",
+        "completionInfo": "Total Season Challenges points: 62505",
         "village": "home"
       },
       {
@@ -409,10 +409,10 @@
       {
         "name": "Siege Sharer",
         "stars": 1,
-        "value": 77,
+        "value": 79,
         "target": 1000,
         "info": "Donate 1000 Siege Machines",
-        "completionInfo": "Total Siege Machines donated: 77",
+        "completionInfo": "Total Siege Machines donated: 79",
         "village": "home"
       },
       {
@@ -1311,6 +1311,12 @@
         "name": "Recall Spell",
         "level": 1,
         "maxLevel": 7,
+        "village": "home"
+      },
+      {
+        "name": "Revive Spell",
+        "level": 1,
+        "maxLevel": 5,
         "village": "home"
       }
     ]
