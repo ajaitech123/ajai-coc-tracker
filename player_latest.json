@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-13T19:40:46.945892+00:00",
+  "fetched_at": "2026-11-14T06:21:43.952659+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
@@ -16,8 +16,8 @@
     "bestBuilderBaseTrophies": 2795,
     "role": "coLeader",
     "warPreference": "in",
-    "donations": 259,
-    "donationsReceived": 138,
+    "donations": 289,
+    "donationsReceived": 183,
     "clanCapitalContributions": 230082,
     "clan": {
       "tag": "#2Q0PUYL2V",
@@ -76,10 +76,10 @@
       {
         "name": "Nice and Tidy",
         "stars": 3,
-        "value": 1551,
+        "value": 1553,
         "target": 500,
         "info": "Remove 500 obstacles (trees, rocks, bushes)",
-        "completionInfo": "Total obstacles removed: 1551",
+        "completionInfo": "Total obstacles removed: 1553",
         "village": "home"
       },
       {
@@ -166,10 +166,10 @@
       {
         "name": "Unbreakable",
         "stars": 1,
-        "value": 41,
+        "value": 42,
         "target": 250,
         "info": "Successfully defend against 250 attacks",
-        "completionInfo": "Total defenses won: 41",
+        "completionInfo": "Total defenses won: 42",
         "village": "home"
       },
       {
@@ -409,10 +409,10 @@
       {
         "name": "Siege Sharer",
         "stars": 1,
-        "value": 79,
+        "value": 80,
         "target": 1000,
         "info": "Donate 1000 Siege Machines",
-        "completionInfo": "Total Siege Machines donated: 79",
+        "completionInfo": "Total Siege Machines donated: 80",
         "village": "home"
       },
       {
@@ -860,7 +860,6 @@
         "name": "Super Dragon",
         "level": 1,
         "maxLevel": 11,
-        "superTroopIsActive": true,
         "village": "home"
       },
       {
@@ -1311,6 +1310,12 @@
         "name": "Recall Spell",
         "level": 1,
         "maxLevel": 7,
+        "village": "home"
+      },
+      {
+        "name": "Overgrowth Spell",
+        "level": 1,
+        "maxLevel": 5,
         "village": "home"
       },
       {
