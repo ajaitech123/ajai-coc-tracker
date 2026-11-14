@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-14T18:00:04.292369+00:00",
+  "fetched_at": "2026-11-14T22:23:04.006980+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
@@ -364,10 +364,10 @@
       {
         "name": "Well Seasoned",
         "stars": 3,
-        "value": 62565,
+        "value": 62595,
         "target": 50000,
         "info": "Earn 50000 points in Season Challenges",
-        "completionInfo": "Total Season Challenges points: 62565",
+        "completionInfo": "Total Season Challenges points: 62595",
         "village": "home"
       },
       {
