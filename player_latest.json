@@ -1,11 +1,11 @@
 {
-  "fetched_at": "2026-11-14T06:21:43.952659+00:00",
+  "fetched_at": "2026-11-14T18:00:04.292369+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
     "townHallLevel": 15,
     "townHallWeaponLevel": 1,
-    "expLevel": 111,
+    "expLevel": 112,
     "trophies": 349,
     "bestTrophies": 349,
     "warStars": 192,
@@ -17,8 +17,8 @@
     "role": "coLeader",
     "warPreference": "in",
     "donations": 289,
-    "donationsReceived": 183,
-    "clanCapitalContributions": 230082,
+    "donationsReceived": 228,
+    "clanCapitalContributions": 238732,
     "clan": {
       "tag": "#2Q0PUYL2V",
       "name": "BLASTERS",
@@ -76,10 +76,10 @@
       {
         "name": "Nice and Tidy",
         "stars": 3,
-        "value": 1553,
+        "value": 1555,
         "target": 500,
         "info": "Remove 500 obstacles (trees, rocks, bushes)",
-        "completionInfo": "Total obstacles removed: 1553",
+        "completionInfo": "Total obstacles removed: 1555",
         "village": "home"
       },
       {
@@ -364,10 +364,10 @@
       {
         "name": "Well Seasoned",
         "stars": 3,
-        "value": 62505,
+        "value": 62565,
         "target": 50000,
         "info": "Earn 50000 points in Season Challenges",
-        "completionInfo": "Total Season Challenges points: 62505",
+        "completionInfo": "Total Season Challenges points: 62565",
         "village": "home"
       },
       {
@@ -418,19 +418,19 @@
       {
         "name": "Aggressive Capitalism",
         "stars": 1,
-        "value": 90435,
+        "value": 97885,
         "target": 250000,
         "info": "Loot 250000 Capital Gold during Raid attacks",
-        "completionInfo": "Total Capital Gold looted: 90435",
+        "completionInfo": "Total Capital Gold looted: 97885",
         "village": "clanCapital"
       },
       {
         "name": "Most Valuable Clanmate",
         "stars": 1,
-        "value": 230082,
+        "value": 238732,
         "target": 500000,
         "info": "Contribute 500000 Capital Gold to upgrades in the Clan Capital",
-        "completionInfo": "Total Capital Gold contributed: 230082",
+        "completionInfo": "Total Capital Gold contributed: 238732",
         "village": "clanCapital"
       },
       {
