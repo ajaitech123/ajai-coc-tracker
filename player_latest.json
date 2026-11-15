@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-14T22:23:04.006980+00:00",
+  "fetched_at": "2026-11-15T06:30:12.193161+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
@@ -16,9 +16,9 @@
     "bestBuilderBaseTrophies": 2795,
     "role": "coLeader",
     "warPreference": "in",
-    "donations": 289,
+    "donations": 405,
     "donationsReceived": 228,
-    "clanCapitalContributions": 238732,
+    "clanCapitalContributions": 239332,
     "clan": {
       "tag": "#2Q0PUYL2V",
       "name": "BLASTERS",
@@ -76,10 +76,10 @@
       {
         "name": "Nice and Tidy",
         "stars": 3,
-        "value": 1555,
+        "value": 1558,
         "target": 500,
         "info": "Remove 500 obstacles (trees, rocks, bushes)",
-        "completionInfo": "Total obstacles removed: 1555",
+        "completionInfo": "Total obstacles removed: 1558",
         "village": "home"
       },
       {
@@ -175,10 +175,10 @@
       {
         "name": "Friend in Need",
         "stars": 2,
-        "value": 5870,
+        "value": 5980,
         "target": 25000,
         "info": "Donate 25000 capacity worth of reinforcements to Clanmates",
-        "completionInfo": "Total capacity donated: 5870",
+        "completionInfo": "Total capacity donated: 5980",
         "village": "home"
       },
       {
@@ -256,10 +256,10 @@
       {
         "name": "Sharing is caring",
         "stars": 1,
-        "value": 272,
+        "value": 278,
         "target": 2000,
         "info": "Donate 2000 Spell storage capacity worth of Spells",
-        "completionInfo": "Total Spell capacity donated: 272",
+        "completionInfo": "Total Spell capacity donated: 278",
         "village": "home"
       },
       {
@@ -427,10 +427,10 @@
       {
         "name": "Most Valuable Clanmate",
         "stars": 1,
-        "value": 238732,
+        "value": 239332,
         "target": 500000,
         "info": "Contribute 500000 Capital Gold to upgrades in the Clan Capital",
-        "completionInfo": "Total Capital Gold contributed: 238732",
+        "completionInfo": "Total Capital Gold contributed: 239332",
         "village": "clanCapital"
       },
       {
@@ -918,7 +918,7 @@
       },
       {
         "name": "Unicorn",
-        "level": 5,
+        "level": 6,
         "maxLevel": 15,
         "village": "home"
       }
@@ -996,14 +996,14 @@
         "maxLevel": 55,
         "equipment": [
           {
-            "name": "Rocket Spear",
-            "level": 18,
-            "maxLevel": 27,
+            "name": "Royal Gem",
+            "level": 15,
+            "maxLevel": 18,
             "village": "home"
           },
           {
-            "name": "Royal Gem",
-            "level": 15,
+            "name": "Seeking Shield",
+            "level": 12,
             "maxLevel": 18,
             "village": "home"
           }
