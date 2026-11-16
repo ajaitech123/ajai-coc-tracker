@@ -1,14 +1,14 @@
 {
-  "fetched_at": "2026-11-16T06:27:22.072451+00:00",
+  "fetched_at": "2026-11-16T22:00:08.660647+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
     "townHallLevel": 15,
     "townHallWeaponLevel": 1,
     "expLevel": 112,
-    "trophies": 349,
+    "trophies": 0,
     "bestTrophies": 349,
-    "warStars": 192,
+    "warStars": 198,
     "attackWins": 0,
     "defenseWins": 0,
     "builderHallLevel": 10,
@@ -16,8 +16,8 @@
     "bestBuilderBaseTrophies": 2795,
     "role": "coLeader",
     "warPreference": "in",
-    "donations": 523,
-    "donationsReceived": 320,
+    "donations": 611,
+    "donationsReceived": 365,
     "clanCapitalContributions": 239332,
     "clan": {
       "tag": "#2Q0PUYL2V",
@@ -41,10 +41,10 @@
       "id": 44000022,
       "name": "Brass League I"
     },
-    "currentLeagueGroupTag": "#92PLGV9",
-    "currentLeagueSeasonId": 1794200400,
-    "previousLeagueGroupTag": "#90UQUL9",
-    "previousLeagueSeasonId": 1793595600,
+    "currentLeagueGroupTag": "#980L99P",
+    "currentLeagueSeasonId": 1794805200,
+    "previousLeagueGroupTag": "#92PLGV9",
+    "previousLeagueSeasonId": 1794200400,
     "achievements": [
       {
         "name": "Bigger Coffers",
@@ -76,10 +76,10 @@
       {
         "name": "Nice and Tidy",
         "stars": 3,
-        "value": 1560,
+        "value": 1561,
         "target": 500,
         "info": "Remove 500 obstacles (trees, rocks, bushes)",
-        "completionInfo": "Total obstacles removed: 1560",
+        "completionInfo": "Total obstacles removed: 1561",
         "village": "home"
       },
       {
@@ -94,19 +94,19 @@
       {
         "name": "Gold Grab",
         "stars": 3,
-        "value": 1080985439,
+        "value": 1081341658,
         "target": 100000000,
         "info": "Steal 100000000 Gold",
-        "completionInfo": "Total Gold looted: 1080985439",
+        "completionInfo": "Total Gold looted: 1081341658",
         "village": "home"
       },
       {
         "name": "Elixir Escapade",
         "stars": 3,
-        "value": 1133703424,
+        "value": 1134112216,
         "target": 100000000,
         "info": "Steal 100000000 elixir",
-        "completionInfo": "Total Elixir looted: 1133703424",
+        "completionInfo": "Total Elixir looted: 1134112216",
         "village": "home"
       },
       {
@@ -175,10 +175,10 @@
       {
         "name": "Friend in Need",
         "stars": 2,
-        "value": 6035,
+        "value": 6090,
         "target": 25000,
         "info": "Donate 25000 capacity worth of reinforcements to Clanmates",
-        "completionInfo": "Total capacity donated: 6035",
+        "completionInfo": "Total capacity donated: 6090",
         "village": "home"
       },
       {
@@ -193,10 +193,10 @@
       {
         "name": "Heroic Heist",
         "stars": 3,
-        "value": 10314034,
+        "value": 10316563,
         "target": 1000000,
         "info": "Steal 1000000 Dark Elixir",
-        "completionInfo": "Total Dark Elixir looted: 10314034",
+        "completionInfo": "Total Dark Elixir looted: 10316563",
         "village": "home"
       },
       {
@@ -229,10 +229,10 @@
       {
         "name": "War Hero",
         "stars": 2,
-        "value": 192,
+        "value": 198,
         "target": 1000,
         "info": "Score 1000 Stars for your clan in Clan War battles",
-        "completionInfo": "Total Stars scored for clan in Clan War battles: 192",
+        "completionInfo": "Total Stars scored for clan in Clan War battles: 198",
         "village": "home"
       },
       {
@@ -256,10 +256,10 @@
       {
         "name": "Sharing is caring",
         "stars": 1,
-        "value": 281,
+        "value": 284,
         "target": 2000,
         "info": "Donate 2000 Spell storage capacity worth of Spells",
-        "completionInfo": "Total Spell capacity donated: 281",
+        "completionInfo": "Total Spell capacity donated: 284",
         "village": "home"
       },
       {
@@ -364,10 +364,10 @@
       {
         "name": "Well Seasoned",
         "stars": 3,
-        "value": 62685,
+        "value": 62745,
         "target": 50000,
         "info": "Earn 50000 points in Season Challenges",
-        "completionInfo": "Total Season Challenges points: 62685",
+        "completionInfo": "Total Season Challenges points: 62745",
         "village": "home"
       },
       {
@@ -409,10 +409,10 @@
       {
         "name": "Siege Sharer",
         "stars": 1,
-        "value": 82,
+        "value": 83,
         "target": 1000,
         "info": "Donate 1000 Siege Machines",
-        "completionInfo": "Total Siege Machines donated: 82",
+        "completionInfo": "Total Siege Machines donated: 83",
         "village": "home"
       },
       {
@@ -583,127 +583,127 @@
       {
         "name": "Barbarian",
         "level": 8,
-        "maxLevel": 13,
+        "maxLevel": 14,
         "village": "home"
       },
       {
         "name": "Archer",
         "level": 9,
-        "maxLevel": 14,
+        "maxLevel": 15,
         "village": "home"
       },
       {
         "name": "Goblin",
         "level": 7,
-        "maxLevel": 10,
+        "maxLevel": 11,
         "village": "home"
       },
       {
         "name": "Giant",
         "level": 7,
-        "maxLevel": 14,
+        "maxLevel": 15,
         "village": "home"
       },
       {
         "name": "Wall Breaker",
         "level": 8,
-        "maxLevel": 14,
+        "maxLevel": 15,
         "village": "home"
       },
       {
         "name": "Balloon",
         "level": 9,
-        "maxLevel": 13,
+        "maxLevel": 14,
         "village": "home"
       },
       {
         "name": "Wizard",
         "level": 6,
-        "maxLevel": 14,
+        "maxLevel": 15,
         "village": "home"
       },
       {
         "name": "Healer",
         "level": 6,
-        "maxLevel": 11,
+        "maxLevel": 12,
         "village": "home"
       },
       {
         "name": "Dragon",
-        "level": 9,
-        "maxLevel": 13,
+        "level": 10,
+        "maxLevel": 14,
         "village": "home"
       },
       {
         "name": "P.E.K.K.A",
         "level": 8,
-        "maxLevel": 13,
+        "maxLevel": 14,
         "village": "home"
       },
       {
         "name": "Minion",
         "level": 6,
-        "maxLevel": 14,
+        "maxLevel": 15,
         "village": "home"
       },
       {
         "name": "Hog Rider",
         "level": 8,
-        "maxLevel": 15,
+        "maxLevel": 16,
         "village": "home"
       },
       {
         "name": "Valkyrie",
         "level": 9,
-        "maxLevel": 12,
+        "maxLevel": 13,
         "village": "home"
       },
       {
         "name": "Golem",
         "level": 3,
-        "maxLevel": 15,
+        "maxLevel": 16,
         "village": "home"
       },
       {
         "name": "Witch",
         "level": 5,
-        "maxLevel": 8,
+        "maxLevel": 9,
         "village": "home"
       },
       {
         "name": "Baby Dragon",
         "level": 2,
-        "maxLevel": 12,
+        "maxLevel": 13,
         "village": "home"
       },
       {
         "name": "Miner",
         "level": 3,
-        "maxLevel": 12,
+        "maxLevel": 13,
         "village": "home"
       },
       {
         "name": "Super Barbarian",
         "level": 1,
-        "maxLevel": 9,
+        "maxLevel": 10,
         "village": "home"
       },
       {
         "name": "Super Archer",
         "level": 1,
-        "maxLevel": 10,
+        "maxLevel": 11,
         "village": "home"
       },
       {
         "name": "Super Wall Breaker",
         "level": 1,
-        "maxLevel": 10,
+        "maxLevel": 11,
         "village": "home"
       },
       {
         "name": "Super Giant",
         "level": 1,
-        "maxLevel": 10,
+        "maxLevel": 11,
         "village": "home"
       },
       {
@@ -781,31 +781,31 @@
       {
         "name": "Yeti",
         "level": 1,
-        "maxLevel": 8,
+        "maxLevel": 9,
         "village": "home"
       },
       {
         "name": "Sneaky Goblin",
         "level": 1,
-        "maxLevel": 6,
+        "maxLevel": 7,
         "village": "home"
       },
       {
         "name": "Super Miner",
         "level": 1,
-        "maxLevel": 12,
+        "maxLevel": 13,
         "village": "home"
       },
       {
         "name": "Rocket Balloon",
         "level": 1,
-        "maxLevel": 9,
+        "maxLevel": 10,
         "village": "home"
       },
       {
         "name": "Electro Dragon",
         "level": 5,
-        "maxLevel": 9,
+        "maxLevel": 10,
         "village": "home"
       },
       {
@@ -817,25 +817,25 @@
       {
         "name": "Inferno Dragon",
         "level": 1,
-        "maxLevel": 12,
+        "maxLevel": 13,
         "village": "home"
       },
       {
         "name": "Super Valkyrie",
         "level": 1,
-        "maxLevel": 12,
+        "maxLevel": 13,
         "village": "home"
       },
       {
         "name": "Dragon Rider",
         "level": 1,
-        "maxLevel": 6,
+        "maxLevel": 7,
         "village": "home"
       },
       {
         "name": "Super Witch",
         "level": 1,
-        "maxLevel": 8,
+        "maxLevel": 9,
         "village": "home"
       },
       {
@@ -847,43 +847,43 @@
       {
         "name": "Ice Hound",
         "level": 1,
-        "maxLevel": 8,
+        "maxLevel": 9,
         "village": "home"
       },
       {
         "name": "Super Bowler",
         "level": 1,
-        "maxLevel": 10,
+        "maxLevel": 11,
         "village": "home"
       },
       {
         "name": "Super Dragon",
         "level": 1,
-        "maxLevel": 11,
+        "maxLevel": 12,
         "village": "home"
       },
       {
         "name": "Super Wizard",
         "level": 1,
-        "maxLevel": 10,
+        "maxLevel": 11,
         "village": "home"
       },
       {
         "name": "Super Minion",
         "level": 1,
-        "maxLevel": 11,
+        "maxLevel": 12,
         "village": "home"
       },
       {
         "name": "Electro Titan",
         "level": 1,
-        "maxLevel": 5,
+        "maxLevel": 6,
         "village": "home"
       },
       {
         "name": "Super Hog Rider",
         "level": 1,
-        "maxLevel": 12,
+        "maxLevel": 13,
         "village": "home"
       },
       {
@@ -895,13 +895,13 @@
       {
         "name": "Root Rider",
         "level": 1,
-        "maxLevel": 4,
+        "maxLevel": 5,
         "village": "home"
       },
       {
         "name": "Super Yeti",
         "level": 1,
-        "maxLevel": 8,
+        "maxLevel": 9,
         "village": "home"
       },
       {
@@ -933,7 +933,7 @@
       {
         "name": "Barbarian King",
         "level": 38,
-        "maxLevel": 110,
+        "maxLevel": 115,
         "equipment": [
           {
             "name": "Earthquake Boots",
@@ -953,7 +953,7 @@
       {
         "name": "Archer Queen",
         "level": 32,
-        "maxLevel": 110,
+        "maxLevel": 115,
         "equipment": [
           {
             "name": "Healer Puppet",
@@ -972,19 +972,19 @@
       },
       {
         "name": "Grand Warden",
-        "level": 30,
-        "maxLevel": 85,
+        "level": 31,
+        "maxLevel": 90,
         "equipment": [
           {
-            "name": "Eternal Tome",
-            "level": 12,
+            "name": "Rage Gem",
+            "level": 15,
             "maxLevel": 18,
             "village": "home"
           },
           {
-            "name": "Healing Tome",
-            "level": 1,
-            "maxLevel": 18,
+            "name": "Fireball",
+            "level": 14,
+            "maxLevel": 27,
             "village": "home"
           }
         ],
@@ -998,8 +998,8 @@
       },
       {
         "name": "Royal Champion",
-        "level": 20,
-        "maxLevel": 55,
+        "level": 21,
+        "maxLevel": 60,
         "equipment": [
           {
             "name": "Royal Gem",
@@ -1025,7 +1025,7 @@
       {
         "name": "Minion Prince",
         "level": 18,
-        "maxLevel": 95,
+        "maxLevel": 100,
         "equipment": [
           {
             "name": "Meteor Staff",
@@ -1045,7 +1045,7 @@
       {
         "name": "Dragon Duke",
         "level": 10,
-        "maxLevel": 25,
+        "maxLevel": 30,
         "equipment": [
           {
             "name": "Revenge Deck",
@@ -1103,6 +1103,12 @@
       {
         "name": "Dark Crown",
         "level": 11,
+        "maxLevel": 27,
+        "village": "home"
+      },
+      {
+        "name": "Lavaloon Puppet",
+        "level": 12,
         "maxLevel": 27,
         "village": "home"
       },
@@ -1243,13 +1249,13 @@
       {
         "name": "Lightning Spell",
         "level": 9,
-        "maxLevel": 13,
+        "maxLevel": 14,
         "village": "home"
       },
       {
         "name": "Healing Spell",
         "level": 6,
-        "maxLevel": 12,
+        "maxLevel": 13,
         "village": "home"
       },
       {
@@ -1273,7 +1279,7 @@
       {
         "name": "Poison Spell",
         "level": 4,
-        "maxLevel": 12,
+        "maxLevel": 13,
         "village": "home"
       },
       {
@@ -1285,7 +1291,7 @@
       {
         "name": "Haste Spell",
         "level": 3,
-        "maxLevel": 7,
+        "maxLevel": 8,
         "village": "home"
       },
       {
@@ -1303,7 +1309,7 @@
       {
         "name": "Bat Spell",
         "level": 1,
-        "maxLevel": 8,
+        "maxLevel": 9,
         "village": "home"
       },
       {
