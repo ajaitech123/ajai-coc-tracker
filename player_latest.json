@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-19T07:24:15.260909+00:00",
+  "fetched_at": "2026-11-19T20:35:56.129057+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
     "townHallLevel": 15,
     "townHallWeaponLevel": 1,
     "expLevel": 113,
-    "trophies": 261,
+    "trophies": 303,
     "bestTrophies": 349,
     "warStars": 198,
     "attackWins": 0,
@@ -958,7 +958,7 @@
       },
       {
         "name": "Archer Queen",
-        "level": 32,
+        "level": 33,
         "maxLevel": 115,
         "equipment": [
           {
