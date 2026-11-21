@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T20:17:38.681044+00:00",
+  "fetched_at": "2026-11-21T07:05:50.428116+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
@@ -17,7 +17,7 @@
     "role": "coLeader",
     "warPreference": "out",
     "donations": 761,
-    "donationsReceived": 506,
+    "donationsReceived": 551,
     "clanCapitalContributions": 239932,
     "clan": {
       "tag": "#2Q0PUYL2V",
@@ -76,10 +76,10 @@
       {
         "name": "Nice and Tidy",
         "stars": 3,
-        "value": 1572,
+        "value": 1580,
         "target": 500,
         "info": "Remove 500 obstacles (trees, rocks, bushes)",
-        "completionInfo": "Total obstacles removed: 1572",
+        "completionInfo": "Total obstacles removed: 1580",
         "village": "home"
       },
       {
@@ -364,10 +364,10 @@
       {
         "name": "Well Seasoned",
         "stars": 3,
-        "value": 62875,
+        "value": 62905,
         "target": 50000,
         "info": "Earn 50000 points in Season Challenges",
-        "completionInfo": "Total Season Challenges points: 62875",
+        "completionInfo": "Total Season Challenges points: 62905",
         "village": "home"
       },
       {
