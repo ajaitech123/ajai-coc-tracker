@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-23T07:36:50.768090+00:00",
+  "fetched_at": "2026-11-23T23:52:33.084976+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
@@ -76,10 +76,10 @@
       {
         "name": "Nice and Tidy",
         "stars": 3,
-        "value": 1584,
+        "value": 1585,
         "target": 500,
         "info": "Remove 500 obstacles (trees, rocks, bushes)",
-        "completionInfo": "Total obstacles removed: 1584",
+        "completionInfo": "Total obstacles removed: 1585",
         "village": "home"
       },
       {
@@ -364,10 +364,10 @@
       {
         "name": "Well Seasoned",
         "stars": 3,
-        "value": 64155,
+        "value": 64305,
         "target": 50000,
         "info": "Earn 50000 points in Season Challenges",
-        "completionInfo": "Total Season Challenges points: 64155",
+        "completionInfo": "Total Season Challenges points: 64305",
         "village": "home"
       },
       {
@@ -938,7 +938,7 @@
     "heroes": [
       {
         "name": "Barbarian King",
-        "level": 39,
+        "level": 40,
         "maxLevel": 115,
         "equipment": [
           {
@@ -958,7 +958,7 @@
       },
       {
         "name": "Archer Queen",
-        "level": 33,
+        "level": 34,
         "maxLevel": 115,
         "equipment": [
           {
