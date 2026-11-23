@@ -1,12 +1,12 @@
 {
-  "fetched_at": "2026-11-22T19:38:47.674268+00:00",
+  "fetched_at": "2026-11-23T07:36:50.768090+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
     "townHallLevel": 15,
     "townHallWeaponLevel": 1,
     "expLevel": 113,
-    "trophies": 312,
+    "trophies": 0,
     "bestTrophies": 349,
     "warStars": 198,
     "attackWins": 0,
@@ -41,10 +41,10 @@
       "id": 44000022,
       "name": "Brass League I"
     },
-    "currentLeagueGroupTag": "#980L99P",
-    "currentLeagueSeasonId": 1794805200,
-    "previousLeagueGroupTag": "#92PLGV9",
-    "previousLeagueSeasonId": 1794200400,
+    "currentLeagueGroupTag": "#98QJR0U",
+    "currentLeagueSeasonId": 1795410000,
+    "previousLeagueGroupTag": "#980L99P",
+    "previousLeagueSeasonId": 1794805200,
     "achievements": [
       {
         "name": "Bigger Coffers",
