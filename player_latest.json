@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-25T21:41:00.315913+00:00",
+  "fetched_at": "2026-11-26T08:16:09.600847+00:00",
   "player": {
     "tag": "#G9UPL22PQ",
     "name": "Varshini_4ever",
@@ -624,7 +624,7 @@
       },
       {
         "name": "Healer",
-        "level": 6,
+        "level": 7,
         "maxLevel": 12,
         "village": "home"
       },
@@ -958,7 +958,7 @@
       },
       {
         "name": "Archer Queen",
-        "level": 34,
+        "level": 35,
         "maxLevel": 115,
         "equipment": [
           {
@@ -978,7 +978,7 @@
       },
       {
         "name": "Grand Warden",
-        "level": 32,
+        "level": 33,
         "maxLevel": 90,
         "equipment": [
           {
